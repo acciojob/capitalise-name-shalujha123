@@ -5,4 +5,4 @@ function capitaize(str){
 }
 // let res = capitaize("John Doe")
 // console.log(res)
-capitaize("John Doe")
+capitaize(str)
