@@ -2,5 +2,5 @@
 function capitaize(str){
 	return str.toUpperCase()
 }
-let res = capitaize("John Doe")
-console.log(res)
+// let res = capitaize("John Doe")
+// console.log(res)
