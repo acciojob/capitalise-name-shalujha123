@@ -1,8 +1,9 @@
 //your JS code here. If required.
-function capitaize(fname){
+function capitaize(str){
 	// return str.toUpperCase()
-	console.log(fname.toUpperCase())
+	console.log(str.toUpperCase())
 }
 // let res = capitaize("John Doe")
 // console.log(res)
-capitaize(fname)
+capitaize("John Doe")
+capitaize("jOhN dOe")
