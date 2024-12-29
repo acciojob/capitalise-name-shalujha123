@@ -1,9 +1,5 @@
 //your JS code here. If required.
 function capitaize(str){
-	// return str.toUpperCase()
-	console.log(str.toUpperCase())
+	let inputField = document.getElementById("fname")
+	inputField.value = inputField.value.toUpperCase()
 }
-// let res = capitaize("John Doe")
-// console.log(res)
-capitaize("John Doe")
-capitaize("jOhN dOe")
